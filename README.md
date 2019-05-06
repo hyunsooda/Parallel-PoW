@@ -31,6 +31,6 @@ This program finds hash to prove of own's work using GPU power not CPU intensive
 ![cpu2](https://user-images.githubusercontent.com/12508269/57239350-9b8a0680-7066-11e9-989c-b53022d53e08.PNG)
 8m 55sec
 <br/>
-of zero is 7 but, this is fortunate case. in this case I have set the difficulty is at least six. so this is not wrong result.
+# of zero is 7 but, this is fortunate case. in this case I have set the difficulty is at least six. so this is not wrong result.
 
 
