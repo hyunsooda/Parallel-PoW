@@ -33,4 +33,6 @@ This program finds hash to prove of own's work using GPU power not CPU intensive
 <br/>
 Number of zero is 7 but, this is fortunate case. in this case I have set the difficulty is at least six. so this is not wrong result.
 
+### Notice
+You MUST configure manually two variable in the cuda_pow_new.cu file ```operationPerThread, numOfBlocks  ``` for the difficulty of block what you want to set.
 
